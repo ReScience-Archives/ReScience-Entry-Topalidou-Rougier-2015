@@ -24,16 +24,14 @@ Reviewer:
   - Mehdi Khamassi
 Publication:
   received:  Jun 9, 2015
-  accepted:  
-  published: 
+  accepted:  Aug 12, 2015
+  published: Aug 12, 2015
   volume:    "**1**"
   issue:     "**1**"
-  date:      Sep 2015
+  date:      Aug 2015
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
-  data:      
-  notebook:  
+  article:   "https://github.com/ReScience-Archives/ReScience-Entry-Topalidou-Rougier-2015"
+  code:      "https://github.com/ReScience-Archives/ReScience-Entry-Topalidou-Rougier-2015"
 Reproduction:
   - "*Interaction between cognitive and motor cortico-basal ganglia loops
      during decision making: a computational study*, M. Guthrie, A. Leblois,
