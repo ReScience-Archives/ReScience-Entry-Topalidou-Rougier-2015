@@ -25,12 +25,11 @@ Reviewer:
 Publication:
   received:  Jun 9, 2015
   accepted:  Aug 12, 2015
-  published: Aug 12, 2015
+  published: Aug 14, 2015
   volume:    "**1**"
   issue:     "**1**"
   date:      Aug 2015
 Repository:
-  article:   "https://github.com/ReScience-Archives/ReScience-Entry-Topalidou-Rougier-2015"
   code:      "https://github.com/ReScience-Archives/ReScience-Entry-Topalidou-Rougier-2015"
 Reproduction:
   - "*Interaction between cognitive and motor cortico-basal ganglia loops
